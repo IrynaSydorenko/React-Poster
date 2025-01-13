@@ -1,5 +1,8 @@
 # React Poster
 
+![Landing Page](public/readmeFiles/LandingPage.png)
+![Create Post Page](public/readmeFiles/CreatePost.png)
+
 React Poster is a simple web application built with React and React Router. It allows users to create and view posts with a minimalist interface.
 
 ## Features
